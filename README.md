@@ -1,3 +1,3 @@
-#React Shopping Cart
+# React Shopping Cart
 
-1. Craeate Shopping Cart
+# Step 1: Create Shopping Cart
